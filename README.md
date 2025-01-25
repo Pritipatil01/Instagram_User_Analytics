@@ -6,37 +6,37 @@ This project focuses on analyzing Instagram user interactions and engagement usi
 
 ## Tech Stack
 
-SQL: Used for querying and analyzing the database.
+**SQL**: Used for querying and analyzing the database.
 
-MySQL Workbench: SQL queries and data analysis were performed using this tool.
+**MySQL Workbench**: SQL queries and data analysis were performed using this tool.
 
 ## Project Objectives
 
 The main tasks in this project include:
 
 ## Marketing Analysis
-Loyal User Reward: Identify the five oldest users on Instagram.
+**Loyal User Reward**: Identify the five oldest users on Instagram.
 
-Inactive User Engagement: Find users who have never posted a photo.
+**Inactive User Engagement**: Find users who have never posted a photo.
 
-Contest Winner Declaration: Determine the user with the most likes on a single photo.
+**Contest Winner Declaration**: Determine the user with the most likes on a single photo.
 
-Hashtag Research: Suggest the top five most commonly used hashtags.
+**Hashtag Research**: Suggest the top five most commonly used hashtags.
 
-Ad Campaign Launch: Identify the best day of the week to launch ads based on user registrations.
+**Ad Campaign Launch**: Identify the best day of the week to launch ads based on user registrations.
 
 ## Investor Metrics
-User Engagement: Calculate the average number of posts per user.
+**User Engagement**: Calculate the average number of posts per user.
 
-Bots & Fake Accounts: Detect potential bots who have liked every photo on the site.
+**Bots & Fake Accounts**: Detect potential bots who have liked every photo on the site.
 
 ## Approach
 
-Database Setup: Created necessary tables and imported data using provided SQL commands.
+**Database Setup**: Created necessary tables and imported data using provided SQL commands.
 
-SQL Querying: Utilized SQL queries to extract insights such as the oldest users, inactive users, top hashtags, etc.
+**SQL Querying**: Utilized SQL queries to extract insights such as the oldest users, inactive users, top hashtags, etc.
 
-Analysis: Each task involved executing a relevant SQL query, analyzing the results, and deriving actionable insights for the product and marketing teams.
+**Analysis**: Each task involved executing a relevant SQL query, analyzing the results, and deriving actionable insights for the product and marketing teams.
 
 ## Key Insights
 
