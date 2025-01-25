@@ -40,13 +40,13 @@ The main tasks in this project include:
 
 ## Key Insights
 
-Oldest Users: Identified the most loyal users based on their registration date.
+**Oldest Users**: Identified the most loyal users based on their registration date.
 
-Inactive Users: Found users who had never posted a photo, providing targets for re-engagement campaigns.
+**Inactive Users**: Found users who had never posted a photo, providing targets for re-engagement campaigns.
 
-Popular Hashtags: Suggested the top five hashtags for brands to increase reach.
+**Popular Hashtags**: Suggested the top five hashtags for brands to increase reach.
 
-Optimal Ad Launch Day: Determined the best day of the week for Instagram user registration, guiding ad campaign timing.
+**Optimal Ad Launch Day**: Determined the best day of the week for Instagram user registration, guiding ad campaign timing.
 
 ## Conclusion
 
